@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://test123:8103681868@cluster0.tppka.mongodb.net/devconnector",
+    "jwtSecret" : "mysecret"
+  }
